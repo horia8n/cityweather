@@ -1,0 +1,47 @@
+.input-group{
+    margin-top: 30px;
+}
+
+.table{
+    margin-top: 40px;
+}
+
+.table th {
+    width:20%;
+    vertical-align:middle !important;
+    text-align:center !important;
+}
+
+.table td {
+    width:20%;
+    /*vertical-align:middle !important;*/
+    /*text-align:center !important;*/
+}
+
+.table td > div {
+    margin-top:10px;
+    /*vertical-align:middle !important;*/
+    /*text-align:center !important;*/
+}
+.table td > div > span {
+    padding-left:20px;
+    /*vertical-align:middle !important;*/
+    /*text-align:center !important;*/
+}
+
+.table td > div > div > span {
+    padding-left:20px;
+    /*vertical-align:middle !important;*/
+    /*text-align:center !important;*/
+}
+
+svg{
+    width:100%;
+    height:94px;
+}
+
+td:first-of-type, td:first-of-type > div {
+    vertical-align:top !important;
+    height:94px;
+    width:180px;
+}
